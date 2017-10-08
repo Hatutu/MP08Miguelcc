@@ -26,6 +26,9 @@ and open the template in the editor.
      function division($a,$b){
        return $a/$b;
    }
+    function fantasma($a,$b){
+       return "..fantasma..";
+   }
    
 }
         
