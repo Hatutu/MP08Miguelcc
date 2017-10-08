@@ -27,6 +27,7 @@ and open the template in the editor.
        return $a/$b;
    }
     function fantasma($a,$b){
+        $fantasma = $a+$b;
        return "..fantasma..";
    }
    
