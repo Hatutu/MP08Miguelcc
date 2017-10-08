@@ -19,6 +19,11 @@ and open the template in the editor.
     function suma($a,$b){
        return $a+$b;
    }
+    function resta($a,$b){
+       return $a-$b;
+   }
+   
+   
    
 }
         
