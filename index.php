@@ -23,7 +23,9 @@ and open the template in the editor.
        return $a-$b;
    }
    
-   
+     function division($a,$b){
+       return $a/$b;
+   }
    
 }
         
